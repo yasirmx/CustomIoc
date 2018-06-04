@@ -1,0 +1,8 @@
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\bin\Debug\Calculator.Implementation.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\bin\Debug\Calculator.Implementation.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\bin\Debug\Calculator.Library.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\bin\Debug\Calculator.Library.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\obj\Debug\Calculator.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\obj\Debug\Calculator.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\obj\Debug\Calculator.Implementation.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Calculator.Implementation\obj\Debug\Calculator.Implementation.pdb

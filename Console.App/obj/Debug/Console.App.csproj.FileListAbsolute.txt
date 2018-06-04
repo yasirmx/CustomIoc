@@ -1,0 +1,13 @@
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Console.App.exe.config
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Console.App.exe
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Console.App.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Calculator.Implementation.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Calculator.Library.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Custom.IoC.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Calculator.Implementation.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Calculator.Library.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\bin\Debug\Custom.IoC.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\obj\Debug\Console.App.csprojResolveAssemblyReference.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\obj\Debug\Console.App.csproj.CoreCompileInputs.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\obj\Debug\Console.App.exe
+C:\Users\mauleear\source\repos\Custom.IoC\Console.App\obj\Debug\Console.App.pdb

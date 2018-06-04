@@ -1,0 +1,6 @@
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\obj\Debug\Custom.IoC.csprojResolveAssemblyReference.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\obj\Debug\Custom.IoC.csproj.CoreCompileInputs.cache
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\bin\Debug\Custom.IoC.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\bin\Debug\Custom.IoC.pdb
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\obj\Debug\Custom.IoC.dll
+C:\Users\mauleear\source\repos\Custom.IoC\Custom.IoC\obj\Debug\Custom.IoC.pdb
